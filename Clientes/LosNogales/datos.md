@@ -29,7 +29,7 @@ NOMBRE_BBDD = "LOS-NOGALES"
 
 ### Nombres Equipos Los Nogales
 
-    #====================================
+    ====================================
     NG-CLUB-RESIDENCIAL-IMPERIAL
 
 
@@ -39,7 +39,7 @@ NOMBRE_BBDD = "LOS-NOGALES"
     TLF: 91 364 37 50
     clubimperial@los-nogales.es
 
-    #====================================
+    ====================================
     NG-HORTALEZA
 
     Datos de contacto
@@ -49,7 +49,7 @@ NOMBRE_BBDD = "LOS-NOGALES"
     hortaleza@los-nogales.es
 
 
-    #====================================
+    ====================================
     NG-IMPERIAL
 
     C/ SANTA MARÍA REAL DE NIEVA S/N
@@ -57,7 +57,7 @@ NOMBRE_BBDD = "LOS-NOGALES"
     TLF: 91 364 82 55
     imperial@los-nogales.es
 
-    #====================================
+    ====================================
     NG-LA-PALOMA
 
     C/ TOLEDO 96
@@ -65,7 +65,7 @@ NOMBRE_BBDD = "LOS-NOGALES"
     TLF: 91 365 03 03
     lapaloma@los-nogales.es
 
-    #====================================
+    ====================================
     NG-PACIFICO
 
     Datos de contacto
@@ -74,7 +74,7 @@ NOMBRE_BBDD = "LOS-NOGALES"
     TLF: 91 434 19 40
     pacifico@los-nogales.es
 
-    #====================================
+    ====================================
     NG-PONTONES
 
     C/ COBOS DE SEGOVIA 4
@@ -82,7 +82,7 @@ NOMBRE_BBDD = "LOS-NOGALES"
     TLF: 91 364 43 48
     pontones@los-nogales.es
 
-    #====================================
+    ====================================
     NG-PUERTA-HIERRO
 
     C/ CÉSAR MANRIQUE 7
@@ -90,7 +90,7 @@ NOMBRE_BBDD = "LOS-NOGALES"
     TLF: 91 789 20 09
     puertadehierro@los-nogales.es
 
-    #====================================
+    ====================================
     NG-REINA-VICTORIA
 
     C/ JUAN MONTALVO 20
@@ -98,7 +98,7 @@ NOMBRE_BBDD = "LOS-NOGALES"
     TLF: 91 534 60 00
     reinavictoria@los-nogales.es
 
-    #====================================
+    ====================================
     NG-SANTA-EUGENIA
 
     C/ ZAZÚAR 15
@@ -106,7 +106,7 @@ NOMBRE_BBDD = "LOS-NOGALES"
     TLF: 91 305 29 90
     staeugenia@los-nogales.es
 
-    #====================================
+    ====================================
     NG-VISTA-ALEGRE
 
     C/ VISTA ALEGRE 4-6
@@ -147,6 +147,6 @@ http://apps.nogales/menu.html?tipo=diabeticos
 
 http://apps.nogales/actividades.html
 
-##Enlaces finales con Diseño
+## Enlaces finales con Diseño
 
 http://apps.nogales/alternativo.html
